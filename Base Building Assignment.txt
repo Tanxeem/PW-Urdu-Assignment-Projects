@@ -1,0 +1,14 @@
+1. what is the Internet?
+Ans. The Internet is a global network that connects millions of private, public, academic, business, and government networks.
+
+2. What is a web browser?
+Ans. A web browser is a software application that allows users to access and navigate the World Wide Web (WWW) to view web pages, websites, and various online content. Web browsers interpret and display the content of web pages, which may include text, images, videos, and interactive elements. 
+
+3. What is a browser engine?
+Ans. It interprets the HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and other web technologies to visually represent web pages for users.
+
+4. What is a static site?
+Ans. Static sites are often considered more secure because there is no server-side processing or databases to exploit. However, this simplicity also means they may lack certain dynamic features tha
+
+5. what is a dynamic site?
+Ans. Many dynamic sites are built using CMS platforms like WordPress, Joomla, Drupal, or custom-built systems. CMS allows users to manage and update content without extensive technical knowledge
